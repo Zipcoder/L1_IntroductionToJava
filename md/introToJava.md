@@ -18,8 +18,9 @@ Some content
 
 # Sub Slide number 2 `-\n`
 Gello my dude
--
 hey friend 
+-
+
  
 # New slide using `-\n-\n`
 
